@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri akhiyan da nasha karda take over ni
+> Tere nakhre de charche global cross over ni
+> Raat di haneri 'ch dil mera glide karda
+> Tera kangna da chanan dark hide karda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
